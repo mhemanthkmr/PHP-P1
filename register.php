@@ -17,7 +17,7 @@ include("includes/header.php")
                         </div>
                         <div class="form-group mb-3">
                             <label for="">Phone</label>
-                            <input type="text" class="form-control" name="phone">
+                            <input type="number" class="form-control" name="phone">
                         </div>
                         <div class="form-group mb-3">
                             <label for="">Email</label>

@@ -1,8 +1,8 @@
 <?php 
 include("includes/header.php")
 ?>
-<div class="container m-5 border border-dark">
-    <div class="row">
+<div class="container m-5 border border-dark border-2 justify-content-center">
+    <div class="row ">
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header border-bottom border-dark">

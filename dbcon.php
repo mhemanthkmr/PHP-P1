@@ -4,7 +4,7 @@ $con = mysqli_connect("localhost","mhemanthkmr","hemanth123" ,"users");
 // if($con)
 // {
 //     print_r($con);
-//     echo "Succes";
+//     echo "Successs";
 // }
 // else 
 // {
